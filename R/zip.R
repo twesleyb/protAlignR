@@ -1,1 +1,3 @@
-zip <- function(x,y) { list(c(x,y)) }
+zip <- function(x, y) {
+  list(c(x, y))
+}

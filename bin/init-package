@@ -1,3 +1,4 @@
 #!/usr/bin/env Rscript
-package <- "protAlignR"
-devtools::create(package)
+### EXAMPLE
+#package <- "protAlignR"
+#devtools::create(package)
