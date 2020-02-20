@@ -1,0 +1,3 @@
+#!/usr/bin/env Rscript
+package <- "protAlignR"
+devtools::create(package)
